@@ -6,6 +6,9 @@ a2rp: an Ashish Ranjan presentation
 
 ...ash - remember the name
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-[![Watch the video](https://img.youtube.com/vi/qG-2BP_bv7c/maxresdefault.jpg)](https://youtu.be/qG-2BP_bv7c)
-https://www.youtube.com/watch?v=qG-2BP_bv7c
+<video width="300" height="150" controls>
+  <source src="https://www.youtube.com/watch?v=qG-2BP_bv7c" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
+
