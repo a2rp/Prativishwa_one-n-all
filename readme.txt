@@ -6,4 +6,4 @@ a2rp: an Ashish Ranjan presentation
 
 ...ash - remember the name
 
-https://youtu.be/https://www.youtube.com/watch?v=qG-2BP_bv7c
+https://www.youtube.com/watch?v=qG-2BP_bv7c
